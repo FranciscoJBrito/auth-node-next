@@ -1,0 +1,8 @@
+# node
+/node_modules
+
+# vscode
+/.vscode
+
+# lock file
+package-lock.json
